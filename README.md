@@ -28,7 +28,7 @@ This project was built using the fundamentals of web development:
 I am always open to collaborating on projects involving **HCI** or **Project Management**!
 
 * **Gmail:** [maryjean.pup@gmail.com](mailto:maryjean.pup@gmail.com)
-* **LinkedIn:** [https://www.linkedin.com/in/goingmeri](https://www.linkedin.com/in/goingmeri)]
+* **LinkedIn:** [https://www.linkedin.com/in/goingmeri](https://www.linkedin.com/in/goingmeri)
 
 ---
 
