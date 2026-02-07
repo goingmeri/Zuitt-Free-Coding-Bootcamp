@@ -1,0 +1,48 @@
+* {
+	font-family: "Montserrat", sans-serif;
+}
+body {
+	background-color: #fce4ec; /* Soft pink fallback */
+    background-image: linear-gradient(to bottom, #fce4ec, #ffffff);
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0;
+}
+
+h1, p {
+	font-family: "Montserrat", sans-serif;
+	color: hotpink;
+}
+
+#Profile {
+	height: 250px;
+	width: 250px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+footer {
+	background-color: hotpink;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 10px;
+}
+
+.fa-crow, .fa-facebook, .fa-github, .fa-linkedin, .fa-instagram {
+	font-size: 25px;
+	color: white;
+	margin: 0 10px 0 10px;
+}
+
+.fa-crow:hover, .fa-facebook:hover, .fa-github:hover, .fa-linkedin:hover, .fa-instagram:hover {
+	color: grey;
+}
+
+#landing {
+	height: 80vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
